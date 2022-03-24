@@ -1,0 +1,19 @@
+{
+  "name": "webrtc-demo",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.0.5"
+  },
+  "dependencies": {
+    "firebase": "^8.10.1"
+  },
+  "description": "Build a 1-to-1 video chat feature with WebRTC, Firestore, and JavaScript.",
+  "main": "main.js",
+  "author": "",
+  "license": "ISC"
+}

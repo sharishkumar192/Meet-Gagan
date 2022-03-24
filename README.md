@@ -1,1 +1,2 @@
 # Meet-Gagan
+It consists of an Adaptive Acoustic model that takes audio from the astronauts and identifies them distinctively by suppressing all other background noises from the space capsule. The audio is then synchronized with the video feed using a mixing algorithm and sent using a peer-to-peer connection by WebRTC. The system stores the Audio and Video locally in H.264 format. The whole design is kept in mind to adhere to the low bandwidth requirement of orbital data transmission(<1MBps)
